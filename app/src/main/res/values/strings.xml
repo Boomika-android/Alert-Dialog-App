@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialogApplication</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="server_issue_do_you_want_to_exit">Server Issue. Do you want to exit?</string>
+    <string name="alert">ALErt !!</string>
+    <string name="show_alert_dialog">Show Alert Dialog</string>
+</resources>
